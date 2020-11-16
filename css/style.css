@@ -1,0 +1,65 @@
+* {
+   padding: 0;
+   margin: 0;;
+   
+
+}
+
+/* .imgSize{
+height: 400px;
+} */
+footer{
+
+  background-color: black; 
+  color:white;
+  text-align: center;
+  font: 1em sans-serif;
+  height: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+
+}
+.contactUs{
+   height:768px;
+   background-color:rgb(252, 245, 155);
+   padding-left: 30px;
+
+}
+.districts{
+   
+   padding-top: 20px;
+   background-color:rgb(252, 245, 155);
+}
+.distrMdle{
+   height:100em;
+   background-color:rgb(252, 245, 155);
+   padding-top: 25px;
+   padding-left: 10px;
+   padding-bottom: 20px;;
+   clear: both;
+
+}
+.kzMdle{
+   height:auto;
+   background-color:rgb(252, 245, 155);
+   padding-top: 25px;
+   padding-left: 10px;
+   
+
+
+}
+.spaStyle{
+border: solid 2px red;
+width:580px;
+height: 35px;
+text-align: center;
+font-weight: bold;
+}
+.distrImg{
+   width: 150px;
+   height: 150px;
+}
+.imgCntnt{
+width:600px;
+}
